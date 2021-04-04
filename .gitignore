@@ -1,5 +1,6 @@
 .DS_Store
 .pycache/
+.vscode/
 tmp/
 ML-R/
 .Rproj.user
